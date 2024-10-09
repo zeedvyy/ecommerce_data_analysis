@@ -23,7 +23,7 @@ The dataset used for this analysis was sourced from Kaggle and can be accessed b
 ### Setup Environment (Shell/Terminal):
 git clone https://github.com/zeedvyy/ecommerce_data_analysis.git
 cd ecommerce_data_analysis
-pipenv install
+pipenv instalL
 pipenv shell
 
 ### Run Streamlit App
